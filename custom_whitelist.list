@@ -1,6 +1,5 @@
-DOMAIN-SUFFIX,bizrate.com
-DOMAIN-SUFFIX,brandcycle.go2cloud.org
-DOMAIN-SUFFIX,joylink.io
-DOMAIN-SUFFIX,mavely.app.link
-DOMAIN-SUFFIX,sylikes.com
-DOMAIN-SUFFIX,amzlink.to
+# $ custom_build_script
+
+# --- Blacklist ---
+
+.sylikes.com
