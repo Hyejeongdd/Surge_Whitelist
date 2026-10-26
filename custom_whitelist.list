@@ -2,4 +2,11 @@
 
 # --- Blacklist ---
 
-.sylikes.com
+# ---- 8. UU Remote 域名 ----
+DOMAIN-SUFFIX,uuyc.163.com
+DOMAIN-SUFFIX,mofang.163.com
+DOMAIN-SUFFIX,nrd.nie.163.com
+DOMAIN-SUFFIX,gameviewer.com
+DOMAIN-SUFFIX,adl.netease.com
+DOMAIN,gv.163.com
+DOMAIN,fcount-api.webapp.163.com
